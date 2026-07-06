@@ -7,6 +7,7 @@ Training a neural network to play Flappy Bird using neuroevolution — no backpr
 ![Model 3 training curve](model3_graph.png)
 
 Watch the model playing a 100 pipes!
+
 ![Model playing the game](modelplay.gif)
 
 ---
